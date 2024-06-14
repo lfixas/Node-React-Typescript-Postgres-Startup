@@ -1,1 +1,0 @@
-# Node-React-Typescript-Postgres-Startup
